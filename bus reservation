@@ -266,7 +266,6 @@ int main()
     printf("NUMBER OF SEATS BOOKED - %d\n",nofseats);
     PRICE(fare);
     }
-
    }
 void Journey(int par)
 {  switch(par)
