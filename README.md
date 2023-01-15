@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" align="center" height="" width="500" />
+<img src="https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" align="center" height="" width="600" />
 </div>  
   
 
@@ -86,20 +86,7 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+ 
 
   
 
@@ -109,11 +96,3 @@
 <img src="https://komarev.com/ghpvc/?username=jaswanthreddy-007&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
