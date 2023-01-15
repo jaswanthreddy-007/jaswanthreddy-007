@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" align="center" height="" width="600" />
+<img src="[https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif](https://ipfs.io/ipfs/QmP4AxbpvoR48cVEd4nVqe5M7opUsE8Y4bMNRRVPGc5j2q/nft.gif)" align="center" height="" width="600" />
 </div>  
   
 
