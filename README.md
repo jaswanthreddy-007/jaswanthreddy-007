@@ -6,13 +6,10 @@
 ### <div align="center">I'm Jaswanth, a full-stack  developer 👨‍💻 working for myself since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on Research paper  
-  
+- 🔭 I’m currently looking for full time employment
+    
 
-- 🌱 I’m currently learning Next Js and searching for full time  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact:  It’s all 0’s and 1’s
   
 
 <br/>  
