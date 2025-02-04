@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jaswanth, a full-stack  developer 👨‍💻 working for myself since 2022 🚀</div>  
+### <div align="center">I'm Jaswanth, a full-stack  developer 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m currently looking for full time employment
