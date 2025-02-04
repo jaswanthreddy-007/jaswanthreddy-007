@@ -6,12 +6,6 @@
 ### <div align="center">I'm Jaswanth, a full-stack  developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently looking for full time employment
-    
-
-- ⚡ Fun fact:  It’s all 0’s and 1’s
-  
-
 <br/>  
 
 
@@ -22,7 +16,8 @@
 
 ### Frontend  
 <div align="center">  
- 
+ <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+</div>
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="React" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
